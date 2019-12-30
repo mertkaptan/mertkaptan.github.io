@@ -15,4 +15,4 @@ Mert Kaptanoğlu<br />
 Yenimahalle <br />
 Ankara-Turkiye<br />
 Email: <a href="mailto:kaptanmert94@gmail.com" target="_blank">kaptanmert94@gmail.com</a><br />
-Links: <a href="https://github.com/mertkaptan" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/kaptanmert/" target="_blank">LinkedIN</a>
+Links: <a href="https://github.com/mertkaptan" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/kaptanmert/" target="_blank">LinkedIN</a>,  <a href="https://medium.com/@mertkaptan" target="_blank">Medium</a>
