@@ -1,34 +1,17 @@
-     
-#  Homepage  
+# Much-Worse jekyll theme
 
-#### Header Image
+This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
+this theme has two useful changes:
 
-#### A brief description
+- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
+designed to be hosted at custom domain names.
 
-#### A slider (it is turned off by default, since there is a also a separate section for a gallery)
+- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
 
-#### Contact Info
-            
+Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
 
-#  Navbar 
+See it in action [here](http://people.csail.mit.edu/gchauras).
 
-#### A logo on the left side
- 
-#### 3 Pages for <a href="{{ site.baseurl }}/writing/">'blogging'</a>, <a href="{{ site.baseurl }}/gallery/">'gallery sliders'</a>, <a href="{{ site.baseurl }}/about/">'about'</a>.
-       
+Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
 
-#####  Search page, with all the tags and categories at the bottom
-
-##### Footnotes poping up.
-
->## !!! IMPORTANT !!! Before You Begin
->
->####  Set the **_config.yml** file, with your personal info!
-
-## What's Included
-
-#### A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-#### A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-#### You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+---

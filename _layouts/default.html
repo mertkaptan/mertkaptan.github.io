@@ -1,22 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
-<head>
-{% include head.html %}
-<link rel="shortcut icon" href="/favicon.ico">
-</head>
+  {% include head.html %}
 
-<body>
-
-
-    {% include nav.html %}
+  <body>
+  <div class="page">
+    {% include header.html %}
 
     {{ content }}
 
     {% include footer.html %}
 
-{% include Scroll_to_Top.html %}
-
-</body>
+    {% include analytics.html %}
+    </div>
+  </body>
 
 </html>
