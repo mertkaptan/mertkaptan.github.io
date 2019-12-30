@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /
 ---
 
@@ -9,7 +9,7 @@ permalink: /
 Merhaba , Ankara'da ilkokul ve liseyi okudum. Lisans eğitimimi Bilgisayar Mühendisliği dalında Adana Çukurova Üniversitesi'nden aldım. Yeni ortamlara adapte olabilen ve insanlarla kolayca iletişim kurabilen bir insanım. 
 
 
-## Contact
+## İletişim
 
 Mert Kaptanoğlu<br />
 Yenimahalle <br />
