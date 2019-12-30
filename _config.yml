@@ -3,18 +3,18 @@ gems:
   - jekyll-archives
 
 
-title: Talha Okur
-description: A Computer Engineering MSc. student
-sourcecode: "https://github.com/talhaokur/talhaokur.github.io"
+title: Mert Kaptanoğlu
+description: Computer Engineer
+sourcecode: "https://github.com/mertkaptan/mertkaptan.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "https://talhaokur.net"     # the base hostname & protocol for your site
+url: "https://mertkaptan.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
-    name: Talha Okur
+    name: Mert Kaptanoğlu
     facebook:
     scholar: 
 
